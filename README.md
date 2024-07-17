@@ -3,6 +3,9 @@
 ## Project Overview
 Explore the usage of electric vehicles in the USA over the past decade (2014-2024) through interactive visualizations. Gain insights into the total number of electric vehicles used and produced, their average electric range, and the percentage distribution of battery electric vehicles (BEVs) and plug-in hybrid electric vehicles (PHEVs). Discover the annual number of vehicles used, and examine how each state utilizes electric vehicles. Additionally, learn about the preferred companies and models of electric vehicles, as well as the percentage of vehicles eligible as clean alternative fuel vehicles. 
 
+## Data Source
+https://drive.google.com/file/d/184FISrE2QuI_Y8uwhFnWTHMCPzqYuyci/view?usp=sharing
+
 ## Tableau Dashboard
 [Access the dashboard](https://public.tableau.com/app/profile/bhargavi.chukkapalli/viz/ElectricVehicleDataAnalysis_17211540156940/ElectricVehicleDataAnalysis)
 
